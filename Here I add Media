@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title> Here I add Media </title>
+        <body>
+            <center>
+                <h1>HI NANNA</h1>
+            </center>
+            <img width="400" height="300" src="download.jpg" alt="image not found">
+           <h4> Review:</h4>
+           <p> Hi Nanna, a much-anticipated film of the season, directed by Shouryuv and featuring Nani and Mrunal Thakur, lives up to
+            expectations, offering a cinematic experience rich in emotional depth. The 155-minute runtime expertly explores the
+            nuances of love, marriage, and parenthood, maintaining engagement and feeding the soul.</p>
+           <p> The performances by Nani, Mrunal Thakur, and Kiara Khanna bring the heartwarming family drama to life. Their portrayal
+            of vulnerabilities and the essence of the father-daughter bond is commendable. Nani's post-Dasara transformation adds a
+            fresh touch to his character, while Mrunal displays versatility with panache. The chemistry between the lead actors is
+            palpable, making their on-screen moments a delight. Their characters are intricately layered and thoroughly explored.
+            Whether stepping into the shoes of a photographer, depicting the desperation of a father, or conveying the longing of a
+            lover, Nani strikes all the right chords, and Mrunal beautifully compliments him.</p>
+           <p> Kiara Khanna, portraying Mahi, steals hearts with a brilliant performance, becoming the cutest and most beautiful aspect
+            of the movie. Even Pluto, the pet dog, delivers an impressive performance, becoming an integral part of the plot. The
+            film has plenty of moments that moist the eyes of the audience.</p>
+            <p>The ensemble cast, including Shruti Haasan, Nassar, Priyadarshi, Angad Bedi, Jayaram, and Hemayat Rahman, contributes
+            effectively to the film's beauty. Shruti and Nani shake a leg in the peppy song ‘The Party Anthem Odiyamma’ during an
+            episode in Goa. And it acts as a swift break from the poetic narrative showcased in the film.</p>
+           <p> Kushi fame Hesham Abdul Wahab's musical brilliance, Sanu John Varghese's cinematography, and Praveen Anthony’s editing
+            enhance the emotional depth of the narrative, turning it into a tastefully crafted saga with top-notch production
+            values. Despite some predictability and slow-paced narrative, all the crafts came together to create an engaging
+            cinematic experience.</p>
+           <p> While the film maintains engagement throughout, minor lags occasionally surface, providing the lead characters with
+            ample time to establish and showcase their emotions. Hi Nanna transcends being just a movie; it's a journey through
+            love, resilience, and the delicate threads that bind a family together. Shouryuv, Nani, Mrunal, and the entire cast have
+            created a beautiful film that resonates with the audience, making the film a must-watch for those seeking a blend of
+            heart and soul in cinema.</p>
+            <h4>Trailer:</h4>
+            <video controls autoplay width="500" height="300" poster="OIP.jpg" loop >
+              <source src="13487-small-floating-stick-in-murky-water.htm" type="video/mp4">
+             Audio not supported
+            </video><br>
+            <h4>Hi Nanna audio:</h4>
+            <audio controls autoplay>
+                <source src="Samayama (1).mp3" type="audio/mp3">
+                Audio not supported
+            </audio><br>
+            <h4>Hi Nanna Song:</h4>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/AOIeoPwpe6E?si=q90SOHFSuujEpTge"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </body>
+    </head>
+</html>
